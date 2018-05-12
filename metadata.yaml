@@ -1,0 +1,41 @@
+_repo: Dante-s-Louteringsbergin-proza-overgebracht_39181
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Boeken, H. J.
+    aliases:
+    - Boeken, Hendricus Johannes
+    - Boeken, Hein
+    birthdate: 1861
+    deathdate: 1933
+    gutenberg_agent_id: '34454'
+    url: http://www.gutenberg.org/2009/agents/34454
+covers:
+- cover_type: archival
+  image_path: 39181-h/images/cover-th.jpg
+creator:
+  author:
+    agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+description: ''
+gutenberg_issued: '2012-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39181'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, Italian -- Translations into Dutch'
+- !lcc 'PQ'
+- !lcsh 'Italian poetry -- To 1400 -- Translations into Dutch'
+title: 'Dante''s Louteringsberg
+
+  in proza overgebracht'
+url: http://www.gutenberg.org/ebooks/39181
